@@ -1,0 +1,17 @@
+    1  git help git
+    2  pwd
+    3  ssh-keygen -C "iloveaired@gmail.com" -t rsa
+    4  git config --global user.email iloveaired@gmail.com
+    5  git config --global user.name iloveaired
+    6  ls
+    7  ssh git@github.com
+    8  mkdir gae_php
+    9  cd gae_php
+   10  cd ga*
+   11  touch README
+   12  git add README
+   13  git init
+   14  git add README
+   15  git commit -m "test"
+   16  git remote add origin git@github.com:iloveaired/gae_php.git
+   17  git push origin master
